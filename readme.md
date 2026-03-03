@@ -1,4 +1,4 @@
-Ultra-Recon: Domain & IP Resolver
+Domain & IP Resolver
 
 Alat Python sederhana namun kuat untuk melakukan resolusi domain ke IP dan Reverse IP Lookup secara massal menggunakan teknik multithreading.
 
